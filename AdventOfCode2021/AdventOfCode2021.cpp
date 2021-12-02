@@ -7,15 +7,15 @@
 
 #include <iostream>
 
-#include "day1/day1.h"
+#include "day2/day2.h"
 
 using namespace std;
 
 int main()
 {
-    cout << solveDay1Part1() << '\n';
+    cout << solveDay2Part1() << '\n';
 
-    cout << solveDay1Part2() << '\n';
+    cout << solveDay2Part2() << '\n';
 
     return 0;
 }
