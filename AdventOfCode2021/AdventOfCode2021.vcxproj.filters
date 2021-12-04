@@ -19,6 +19,9 @@
     <Filter Include="Source Files\day2">
       <UniqueIdentifier>{520bb252-c6e9-411f-a29c-00f9464790ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\day3">
+      <UniqueIdentifier>{17adbe12-b83a-4c06-afea-72081a4ce1de}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AdventOfCode2021.cpp">
@@ -30,6 +33,9 @@
     <ClCompile Include="day2\day2.cpp">
       <Filter>Source Files\day2</Filter>
     </ClCompile>
+    <ClCompile Include="day3\day3.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="day1\day1.h">
@@ -38,6 +44,9 @@
     <ClInclude Include="day2\day2.h">
       <Filter>Source Files\day2</Filter>
     </ClInclude>
+    <ClInclude Include="day3\day3.h">
+      <Filter>Source Files\day3</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="day1\day1Input.txt">
@@ -45,6 +54,9 @@
     </Text>
     <Text Include="day2\day2Input.txt">
       <Filter>Source Files\day2</Filter>
+    </Text>
+    <Text Include="day3\day3Input.txt">
+      <Filter>Source Files\day3</Filter>
     </Text>
   </ItemGroup>
 </Project>
