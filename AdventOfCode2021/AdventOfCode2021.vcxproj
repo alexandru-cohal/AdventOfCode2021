@@ -142,17 +142,14 @@
     <ClCompile Include="AdventOfCode2021.cpp" />
     <ClCompile Include="day1\day1.cpp" />
     <ClCompile Include="day2\day2.cpp" />
-    <ClCompile Include="day3\day3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="day1\day1.h" />
     <ClInclude Include="day2\day2.h" />
-    <ClInclude Include="day3\day3.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="day1\day1Input.txt" />
     <Text Include="day2\day2Input.txt" />
-    <Text Include="day3\day3Input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
